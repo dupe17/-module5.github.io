@@ -15,7 +15,7 @@ body {
 }
 
 #logo-img {
-    background: url('restaurant-logo.png') no-repeat;
+    background: url('restaurant-logo_large.png') no-repeat;
     width: 150px;
     height: 150px;
     margin: 10px 15px 10px 0;
@@ -300,6 +300,12 @@ h3.menu-item-title {
         background: url('jumbotron_1200.jpg') no-repeat;
         height: 675px;
     }
+    #logo-img {
+    background: url('restaurant-logo_large.png') no-repeat;
+    width: 150px;
+    height: 150px;
+    margin: 10px 15px 10px 0;
+}
 }
 
 
